@@ -3,6 +3,8 @@ A cross-platform HTML5 QR code &amp; barcode reader.
 
 This repository is only a part of the original library done by [mebjas](https://github.com/mebjas) which is located [here](https://github.com/mebjas/html5-qrcode)
 
+The purpose was to be able to create a rectangle area to scan 1d barcode and add an idle delay to allow the user to move to the next barcode.
+
 ```
 const config = {
   fps: 10,
