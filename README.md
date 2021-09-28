@@ -10,9 +10,9 @@ The object can now be initialized with this map.
 ```
 const config = {
   fps: 10,
-  **qrboxWidth: 240,**
-  **qrboxHeight: 160,**
+  qrboxWidth: 240,
+  qrboxHeight: 160,
   aspectRatio: 0.75,
-  **idleTimeout: 1500,**
+  idleTimeout: 1500,
 };
 ```
